@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript, AWS, Azure, GCP and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud network engineer, Cloud security engineers, Cloud Adminisrator or Cloud Software Developer (Intern or Junior level).
-- 📫 You can view my [resume](https://github.com/Bleuche/altschool-profile-template#)) and contact me by emailing mailtobunwoye@gmail.com.
+- 📫 You can view my [resume](https://github.com/Bleuche/altschool-profile-template#) and contact me by emailing mailtobunwoye@gmail.com.
 
 <!---
 Bleuche/Bleuche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
